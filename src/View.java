@@ -238,7 +238,7 @@ public class View extends javax.swing.JFrame {
 
                 model.addRow(rowData);
 
-                
+                  
                  //send mail using email service
                 if(sdata.get(i).co2Level>=5 || sdata.get(i).smokeLevel>=5){
                    
