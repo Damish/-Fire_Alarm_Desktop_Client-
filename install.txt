@@ -1,0 +1,23 @@
+*** Please read workingOrder.txt before following steps***
+
+1.Open Netbeans IDE
+
+2. Goto to Team tab>> Git >> clone
+
+3. Paste url ' https://github.com/Damish/-Fire_Alarm_Desktop_Client-.git '
+and click Finish.
+
+4.Now you have a copy of project which contains Desktop Client and RMI Server.
+
+5.Goto project explorer >> Expand project root >> SourcePackages >> RMI.Server >> Server.java .Now right click on Server.Java and click Run File.
+
+6.Now the RMI Server is Running.
+
+7.Now Goto project explorer >> SourcePackages >> <default package> >> Login.java.Now right click on Login.java and click Run File.
+
+8.Now the Desktop Client Login interface will appear.
+
+9.To login as Admin : username  - admin , password - 123 
+To login as Admin : username  - client, password - 123 
+
+10.Provide a working Email address in login interface to receive realtime notifcations of Fire alarms warnings.
