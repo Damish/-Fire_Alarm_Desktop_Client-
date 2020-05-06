@@ -1,4 +1,8 @@
 *** Please read workingOrder.txt before following steps***
+######   use below link to acess file ######
+https://github.com/Damish/FIRE_ALARM_REST_API/blob/master/workingOrder.txt
+
+
 
 1.Open Netbeans IDE
 
